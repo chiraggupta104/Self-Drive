@@ -53,5 +53,12 @@ Eventually, it generated steering commands using just a single camera
 
 We will just run autonomous mode, then run our model and the car will start driving
 
+## Dependencies
+
+``` 
+* [numpy](http://www.numpy.org/ ) - NumPy is the fundamental package for scientific computing with Python.
+* [matplotlib](https://matplotlib.org/ ) - Matplotlib is a Python 2D plotting library which produces publication quality figures.
+* [scikit-learn](http://scikit-learn.org/stable/ ) - Simple and efficient tools for data mining and data analysis.
+
 
 
