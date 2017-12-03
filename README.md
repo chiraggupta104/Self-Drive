@@ -59,6 +59,7 @@ We will just run autonomous mode, then run our model and the car will start driv
 * [numpy](http://www.numpy.org/ ) - NumPy is the fundamental package for scientific computing with Python.
 * [matplotlib](https://matplotlib.org/ ) - Matplotlib is a Python 2D plotting library which produces publication quality figures.
 * [scikit-learn](http://scikit-learn.org/stable/ ) - Simple and efficient tools for data mining and data analysis.
-
-
-
+* [pandas](https://pandas.pydata.org/ ) -pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+* [h5py](http://www.h5py.org/) -The h5py package is a Pythonic interface to the HDF5 binary data format.
+* [opencv3](https://opencv.org/opencv-3-0.html) -OpenCV (Open Source Computer Vision Library).
+* [Eventlet](http://eventlet.net/) -Eventlet is a concurrent networking library for Python that allows you to change how you run your code, not how you write it.
